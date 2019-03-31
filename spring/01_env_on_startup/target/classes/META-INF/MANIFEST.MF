@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Neo
+Build-Jdk: 11.0.2
+Implementation-Title: 01_env_on_startup
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: groupId
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/01_env_on_startup
+Created-By: Maven Integration for Eclipse
+

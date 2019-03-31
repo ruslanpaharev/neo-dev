@@ -1,0 +1,97 @@
+sun.desktop: windows
+awt.toolkit: sun.awt.windows.WToolkit
+PROCESSOR_LEVEL: 6
+java.specification.version: 11
+FP_NO_HOST_CHECK: NO
+sun.cpu.isalist: amd64
+sun.jnu.encoding: Cp1251
+java.class.path: C:\Users\Neo\workspace\01_env_on_startup\target\classes;C:\Users\Neo\.m2\repository\org\springframework\boot\spring-boot-starter\2.1.2.RELEASE\spring-boot-starter-2.1.2.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\boot\spring-boot\2.1.2.RELEASE\spring-boot-2.1.2.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-context\5.1.4.RELEASE\spring-context-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-aop\5.1.4.RELEASE\spring-aop-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-beans\5.1.4.RELEASE\spring-beans-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-expression\5.1.4.RELEASE\spring-expression-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.1.2.RELEASE\spring-boot-autoconfigure-2.1.2.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.1.2.RELEASE\spring-boot-starter-logging-2.1.2.RELEASE.jar;C:\Users\Neo\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\Neo\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\Neo\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.11.1\log4j-to-slf4j-2.11.1.jar;C:\Users\Neo\.m2\repository\org\apache\logging\log4j\log4j-api\2.11.1\log4j-api-2.11.1.jar;C:\Users\Neo\.m2\repository\org\slf4j\jul-to-slf4j\1.7.25\jul-to-slf4j-1.7.25.jar;C:\Users\Neo\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-core\5.1.4.RELEASE\spring-core-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\springframework\spring-jcl\5.1.4.RELEASE\spring-jcl-5.1.4.RELEASE.jar;C:\Users\Neo\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23.jar;C:\Users\Neo\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar
+SESSIONNAME: Console
+ALLUSERSPROFILE: C:\ProgramData
+java.vm.vendor: Oracle Corporation
+PROCESSOR_ARCHITECTURE: AMD64
+sun.arch.data.model: 64
+PSModulePath: C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+spring.profiles.include: test
+SystemDrive: C:
+user.variant: 
+java.vendor.url: http://java.oracle.com/
+user.timezone: Europe/Moscow
+os.name: Windows 7
+java.vm.specification.version: 11
+USERNAME: Neo
+ProgramFiles(x86): C:\Program Files (x86)
+sun.java.launcher: SUN_STANDARD
+user.country: RU
+sun.boot.library.path: C:\Program Files\Java\jdk-11.0.2\bin
+sun.java.command: ru.neoflex.dev.spring.env_on_startup.SpringBootEnvOnStartupRunner
+jdk.debug: release
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+sun.cpu.endian: little
+user.home: C:\Users\Neo
+user.language: ru
+java.specification.vendor: Oracle Corporation
+java.version.date: 2019-01-15
+java.home: C:\Program Files\Java\jdk-11.0.2
+file.separator: \
+ProgramData: C:\ProgramData
+java.vm.compressedOopsMode: 32-bit
+ProgramW6432: C:\Program Files
+line.separator: 
+
+HOMEPATH: \Users\Neo
+java.specification.name: Java Platform API Specification
+java.vm.specification.vendor: Oracle Corporation
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 23 Stepping 7, GenuineIntel
+java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+java.awt.headless: true
+ProgramFiles: C:\Program Files
+PUBLIC: C:\Users\Public
+windir: C:\Windows
+=::: ::\
+LOCALAPPDATA: C:\Users\Neo\AppData\Local
+user.script: 
+sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+USERDOMAIN: Matrix
+LOGONSERVER: \\MATRIX
+java.runtime.version: 11.0.2+9
+user.name: Neo
+path.separator: ;
+os.version: 6.1
+java.runtime.name: OpenJDK Runtime Environment
+file.encoding: UTF-8
+APPDATA: C:\Users\Neo\AppData\Roaming
+spring.beaninfo.ignore: true
+java.vm.name: OpenJDK 64-Bit Server VM
+java.vendor.version: 18.9
+windows_tracing_logfile: C:\BVTBin\Tests\installpackage\csilogfile.log
+CommonProgramFiles: C:\Program Files\Common Files
+Path: C:/Program Files/Java/jdk-11.0.2/bin/server;C:/Program Files/Java/jdk-11.0.2/bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Neo\Downloads\apache-maven-3.6.0\bin;C:\Users\Neo\Desktop;
+java.vendor.url.bug: http://bugreport.java.com/bugreport/
+java.io.tmpdir: C:\Users\Neo\AppData\Local\Temp\
+OS: Windows_NT
+java.version: 11.0.2
+windows_tracing_flags: 3
+user.dir: C:\Users\Neo\workspace\01_env_on_startup
+COMPUTERNAME: MATRIX
+os.arch: amd64
+java.vm.specification.name: Java Virtual Machine Specification
+PID: 4296
+java.awt.printerjob: sun.awt.windows.WPrinterJob
+PROCESSOR_REVISION: 1707
+CommonProgramW6432: C:\Program Files\Common Files
+sun.os.patch.level: Service Pack 1
+ComSpec: C:\Windows\system32\cmd.exe
+java.library.path: C:\Program Files\Java\jdk-11.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-11.0.2/bin/server;C:/Program Files/Java/jdk-11.0.2/bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Neo\Downloads\apache-maven-3.6.0\bin;C:\Users\Neo\Desktop;;.
+SystemRoot: C:\Windows
+TEMP: C:\Users\Neo\AppData\Local\Temp
+java.vendor: Oracle Corporation
+java.vm.info: mixed mode
+java.vm.version: 11.0.2+9
+HOMEDRIVE: C:
+USERPROFILE: C:\Users\Neo
+TMP: C:\Users\Neo\AppData\Local\Temp
+sun.io.unicode.encoding: UnicodeLittle
+CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+NUMBER_OF_PROCESSORS: 4
+java.class.version: 55.0
